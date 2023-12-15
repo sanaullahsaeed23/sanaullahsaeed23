@@ -15,8 +15,6 @@ I'm Currently working as the Laravel Backend developer at Qualven Pvt. Ltd, Isla
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanaullahsaeed23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sanaullahsaeed23&icon=0&color=0)](https://visitcount.itsvg.in)
 
